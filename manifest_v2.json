@@ -1,0 +1,106 @@
+{
+  "item": {
+    "id": "com.Dreamqiu.zombie",
+    "restype": "quick_app",
+    "name": "僵尸尖叫",
+    "description": "僵尸狂叫！\n在手腕上带领僵尸大军横扫城市！点击屏幕跳跃，吃掉路人壮大队伍，推翻汽车坦克和飞机。\n《僵尸狂叫》是一款跑酷游戏。你从一只僵尸出发，一路狂奔穿越城市：吞掉惊慌的路人，让队伍越滚越大，看到载具就冲上去掀翻它！\n玩法亮点：\n一指操作\n轻点短跳，按住远跳，整支队伍在同一位置依次起跳。设置里还可以开启倾斜操控和震动反馈。\n八种变身\n橄榄球员、黄金僵尸、忍者、飞碟、僵尸气球、海啸、巨型僵尸、中国龙，各有独特能力。升级可延长变身时间，多数形态还会解锁新能力。\n危机四伏\n深坑、地雷、空中炸弹、从身后冲来的汽车、低空直升机，一不留神就会折损队员。\n11 张城市地图\n纽约、海滩、拉什莫尔山、埃及、侏罗纪、洛杉矶、墨西哥、雪山、复活节岛、巴黎、旧金山，每局随机切换。\n每日任务\n每天 6 项随机任务，完成后领取金币。\n升级与道具\n用金币提升开局僵尸数和金币加成，强化各种变身；还可以购买双倍僵尸、呼唤幸存者、变身加时、一线生机、炸弹点金手等道具。\n战绩与排行\n每局结算显示收获的脑子和本局死因，档案记录各项战绩。设置昵称，冲击在线排行榜！\n小米手环9 10 11 10Pro激活请下载同步器！！！\n排行榜也需要同步器！！！\niOS用户请下载AstroBox插件「DreamHub同步器」以代替安卓同步器联网激活。\nQQ交流群 群1：383388239 群2：937539675 群3：1121706406\n虚拟物品不支持退款！",
+    "preview": [
+      "media/5-2026-11-07-16-31-28.png",
+      "media/5-2026-11-07-16-32-30.png",
+      "media/10-2026-11-07-16-38-31.png",
+      "media/10-2026-11-07-16-34-38.png",
+      "media/rw-2026-11-07-16-29-13.png",
+      "media/rw-2026-11-07-16-29-06.png",
+      "media/rw-2026-11-07-16-29-03.png",
+      "media/5-2026-11-07-16-31-54.png",
+      "media/僵尸狂叫 (1).png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/僵尸狂叫.png",
+    "author": [
+      {
+        "name": "Dreamqiu",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "同步器下载",
+      "url": "https://dreamhub.dreamqiu.cn",
+      "icon": "android-logo"
+    },
+    {
+      "title": "激活教程",
+      "url": "https://www.bilibili.com/opus/1235544512057573379",
+      "icon": "book-open"
+    },
+    {
+      "title": "腾讯频道",
+      "url": "https://pd.qq.com/s/6r4dbjuk2",
+      "icon": "wechat-logo"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw_com.Dreamqiu.zombie.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw_com.Dreamqiu.zombie.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw_com.Dreamqiu.zombie.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/pro_com.Dreamqiu.zombie.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/9_com.Dreamqiu.zombie.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/pro_com.Dreamqiu.zombie.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "bundledResources": {
+      "recommended": [
+        {
+          "type": "plugin",
+          "id": "DreamHub同步器"
+        }
+      ]
+    }
+  }
+}
