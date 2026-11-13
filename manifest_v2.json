@@ -13,10 +13,10 @@
       "media/rw-2026-11-07-16-29-06.png",
       "media/rw-2026-11-07-16-29-03.png",
       "media/5-2026-11-07-16-31-54.png",
-      "media/僵尸狂叫 (1).png"
+      "media/僵尸狂叫@0.5x.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/僵尸狂叫.png",
+    "cover": "media/僵尸狂叫 (2).png",
     "author": [
       {
         "name": "Dreamqiu",
@@ -43,54 +43,114 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.1",
-      "file_name": "downloads/rw_com.Dreamqiu.zombie.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.1",
+      "file_name": "downloads/rw_com.Dreamqiu.zombie.release.1.1.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "新增各个地图的专属路线；\n新增局内四种障碍路段；\n优化游戏运行流畅度；\n修复变身结束奖励金币有时生成在墙内的bug。"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "1.0.1",
-      "file_name": "downloads/rw_com.Dreamqiu.zombie.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.1",
+      "file_name": "downloads/rw_com.Dreamqiu.zombie.release.1.1.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "新增各个地图的专属路线；\n新增局内四种障碍路段；\n优化游戏运行流畅度；\n修复变身结束奖励金币有时生成在墙内的bug。"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.0.1",
-      "file_name": "downloads/rw_com.Dreamqiu.zombie.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.1",
+      "file_name": "downloads/rw_com.Dreamqiu.zombie.release.1.1.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "新增各个地图的专属路线；\n新增局内四种障碍路段；\n优化游戏运行流畅度；\n修复变身结束奖励金币有时生成在墙内的bug。"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.0.1",
-      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.1",
+      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.1.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "新增各个地图的专属路线；\n新增局内四种障碍路段；\n优化游戏运行流畅度；\n修复变身结束奖励金币有时生成在墙内的bug。"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.0.1",
-      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.1",
+      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.1.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "新增各个地图的专属路线；\n新增局内四种障碍路段；\n优化游戏运行流畅度；\n修复变身结束奖励金币有时生成在墙内的bug。"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.0.1",
-      "file_name": "downloads/pro_com.Dreamqiu.zombie.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.1",
+      "file_name": "downloads/pro_com.Dreamqiu.zombie.release.1.1.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "新增各个地图的专属路线；\n新增局内四种障碍路段；\n优化游戏运行流畅度；\n修复变身结束奖励金币有时生成在墙内的bug。"
+        }
+      ]
     },
     "xmb11": {
-      "version": "1.0.1",
-      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.1",
+      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.1.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "新增各个地图的专属路线；\n新增局内四种障碍路段；\n优化游戏运行流畅度；\n修复变身结束奖励金币有时生成在墙内的bug。"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.0.1",
-      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.1",
+      "file_name": "downloads/10_com.Dreamqiu.zombie.release.1.1.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "新增各个地图的专属路线；\n新增局内四种障碍路段；\n优化游戏运行流畅度；\n修复变身结束奖励金币有时生成在墙内的bug。"
+        }
+      ]
     },
     "xmb9": {
-      "version": "1.0.1",
-      "file_name": "downloads/9_com.Dreamqiu.zombie.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.1",
+      "file_name": "downloads/9_com.Dreamqiu.zombie.release.1.1.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "新增各个地图的专属路线；\n新增局内四种障碍路段；\n优化游戏运行流畅度；\n修复变身结束奖励金币有时生成在墙内的bug。"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.0.1",
-      "file_name": "downloads/pro_com.Dreamqiu.zombie.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.1",
+      "file_name": "downloads/pro_com.Dreamqiu.zombie.release.1.1.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1",
+          "content": "新增各个地图的专属路线；\n新增局内四种障碍路段；\n优化游戏运行流畅度；\n修复变身结束奖励金币有时生成在墙内的bug。"
+        }
+      ]
     }
   },
   "ext": {
